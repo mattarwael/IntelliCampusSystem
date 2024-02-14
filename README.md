@@ -1,0 +1,7 @@
+## IntelliCampus
+
+sis
+
+#### License
+
+MIT
